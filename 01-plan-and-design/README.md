@@ -25,12 +25,12 @@
   - 1.4.2.	Identify key workloads, challenges and business problems for scenarios
   - 1.4.3.	Identify skills that support prioritized scenarios through consultation with subject matter experts
   - 1.4.4.	Identify tasks which can measure each skill through consultation with subject matter experts
-  - 1.5.	Define and understand skilling program constraints and requirements
-- 1.5.1.	Define learning objectives
-- 1.5.2.	Define course length
-- 1.5.3.	Create course outline
+- 1.5.	Define and understand skilling program constraints and requirements
+  - 1.5.1.	Define learning objectives
+  - 1.5.2.	Define course length
+  - 1.5.3.	Create course outline
 - 1.6.	Plan for interactive experiences
-- 1.6.1.	Identify which learning objectives will be supported with interactive experiences
-- 1.6.2.	Search for and reuse available interactive experiences, including interactive guides, labs, and click through simulations
-- 1.6.3.	Identify lab environment requirements including tenants, and required lab resources
-- 1.6.4.	Provision development environment for labs with the assistance of lab hosting staff
+  - 1.6.1.	Identify which learning objectives will be supported with interactive experiences
+  - 1.6.2.	Search for and reuse available interactive experiences, including interactive guides, labs, and click through simulations
+  - 1.6.3.	Identify lab environment requirements including tenants, and required lab resources
+  - 1.6.4.	Provision development environment for labs with the assistance of lab hosting staff
